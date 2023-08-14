@@ -1,0 +1,22 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "chatGPT integration application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaganjot99/chatgpt.git"
+  },
+  "keywords": [
+    "chatGPT"
+  ],
+  "author": "Gagan Kahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaganjot99/chatgpt/issues"
+  },
+  "homepage": "https://github.com/gaganjot99/chatgpt#readme"
+}
